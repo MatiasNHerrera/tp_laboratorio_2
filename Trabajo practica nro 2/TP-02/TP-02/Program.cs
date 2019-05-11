@@ -28,7 +28,7 @@ namespace TP_02_2018
             Snacks a1 = new Snacks(Producto.EMarca.Campagnola, "QWE968", ConsoleColor.Gray);
             Snacks a2 = new Snacks(Producto.EMarca.Arcor, "TYU426", ConsoleColor.DarkBlue);
             Snacks a3 = new Snacks(Producto.EMarca.Sancor, "IOP852", ConsoleColor.Green);
-            Snacks a4 = new Snacks(Producto.EMarca.Sancor, "TYU426", ConsoleColor.Green);
+            Snacks a4 = new Snacks(Producto.EMarca.Sancor, "TAS532", ConsoleColor.Green);
 
             // Agrego 8 ítems (los últimos 2 no deberían poder agregarse ni el m1 repetido) y muestro
             changoDeCompras += c1;

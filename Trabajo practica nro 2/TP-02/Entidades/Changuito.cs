@@ -107,12 +107,13 @@ namespace Entidades_2018
                 {
                     {
                         confirmacion = true;
+                        break;
                     }
                 }
 
             }
 
-            if (confirmacion == false)
+            if (confirmacion == false && c.productos.Count < c.espacioDisponible)
             {
                 c.productos.Add(p);
             }
@@ -136,6 +137,7 @@ namespace Entidades_2018
                 {
                     {
                         confirmacion = true;
+                        break;
                     }
                 }
 
