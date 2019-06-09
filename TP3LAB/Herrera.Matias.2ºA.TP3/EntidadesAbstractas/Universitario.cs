@@ -31,7 +31,7 @@ namespace EntidadesAbstractas
         {
             bool retorno = false;
 
-            if (pg1.DNI == pg2.DNI && pg1.legajo == pg2.legajo)
+            if (pg1.DNI == pg2.DNI)
             {
                 retorno = true;
             }

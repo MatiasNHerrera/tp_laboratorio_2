@@ -8,12 +8,6 @@
       <Apellido>Lopez</Apellido>
     </Alumno>
     <Alumno>
-      <DNI>12234456</DNI>
-      <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>José</Nombre>
-      <Apellido>Gutierrez</Apellido>
-    </Alumno>
-    <Alumno>
       <DNI>92264456</DNI>
       <Nacionalidad>Extranjero</Nacionalidad>
       <Nombre>Miguel</Nombre>

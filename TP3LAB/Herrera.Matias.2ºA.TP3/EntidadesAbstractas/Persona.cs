@@ -65,27 +65,7 @@ namespace EntidadesAbstractas
 
         private int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
-            int resultado = 0;
-            string aux = dato.ToString();
-
-            if (aux.ToCharArray().Length <= 8 && aux.ToCharArray().Length > 1 && int.TryParse(aux, out resultado) && nacionalidad == ENacionalidad.Argentino && int.Parse(aux) > 0 && int.Parse(aux) < 90000000)
-            {
-                return dato;
-            }
-            else if (aux.ToCharArray().Length <= 8 && aux.ToCharArray().Length > 1 && int.TryParse(aux, out resultado) && nacionalidad == ENacionalidad.Extranjero && int.Parse(aux) > 89999999 && int.Parse(aux) < 100000000)
-            {
-                return dato;
-            }
-            else if (aux.ToCharArray().Length <= 8 && aux.ToCharArray().Length > 1 && int.TryParse(aux, out resultado))
-            {
-                throw new DniInvalidoExcepcion("Error en el formato ingresado sobre el dni");
-            }
-            else
-            {
-                throw new NacionalidadInvalidaException("La nacionalidad no se condice con el numero de DNI");
-            }
-
-
+           return this.ValidarDni(nacionalidad, dato.ToString());
         }
 
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
