@@ -1,0 +1,16 @@
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\EntidadesAbstractas.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\EntidadesInstanciables.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\Archivos.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\TestConsola\bin\Debug\Archivos.pdb

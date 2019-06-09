@@ -1,0 +1,13 @@
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\MatiasH\Desktop\TP3LAB\Herrera.Matias.2ºA.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
