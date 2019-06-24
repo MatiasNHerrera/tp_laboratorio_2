@@ -55,7 +55,7 @@ namespace Entidades
 
         public override string ToString()
         {
-            return this.MostrarDatos(this) + " " + estado + "\n";
+            return this.MostrarDatos(this) + "\n";
         }
 
         public static bool operator == (Paquete p1, Paquete p2)
